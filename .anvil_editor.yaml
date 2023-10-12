@@ -2,7 +2,8 @@ unique_ids:
   forms:
     Form1: YZOK3SZD2U3K6O3FBWM3WNOZPMAKNHBG
   modules: {}
-  server_modules: {}
+  server_modules:
+    ServerModule1: '1697076845729244577114741.3245'
   assets:
     standard-page.html: ULW6TKC5S5M7UXOTFVSGOQAR6QAAW344
     theme.css: IF7KMATJWGIJWFAYLVU4EZM6HMAHHQCS
